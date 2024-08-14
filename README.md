@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">👋 Hello! I'm Waterhydroxyl.</h2>
 <p align="center">
-  <a href="http://ilikestudy.cn">
+  <a href="https://www.ilikestudy.cn">
   Blog · 
   </a>
   <a href="https://t.me/waterhydroxyl">
